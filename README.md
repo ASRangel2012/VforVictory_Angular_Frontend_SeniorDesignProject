@@ -59,7 +59,7 @@ If you have questions about the product, please contact a member of the team at 
 
 - [Jimmy Peña](https://github.com/JimmyIsmael)
 
-- [Ángel Selva Rodriguez](https://github.com/AARODKB2012) (TEAN LEADER)
+- [Ángel Selva Rodriguez](https://github.com/AARODKB2012) 
 
 **Special thanks to:**
 
